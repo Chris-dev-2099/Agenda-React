@@ -1,0 +1,97 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  
+}
+
+/* html, */
+body{
+  color: white;
+  background-color: #364452;
+  font-family: Lato, sans-serif;
+  margin-top: 25px;
+}
+
+.titulo{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items:center ;
+}
+
+/*estilo de mi tarea*/
+
+.lista_principal{
+  width: 700px;
+  min-height: 500px;
+  background-color: #6c92a5;
+  padding: 25px;
+  margin: 18px;
+  border-radius: 26px;
+}
+
+h2{
+  color: #1b1b32;
+  font-size: 25px;
+  font-family: Roboto, sans-serif;
+  text-align: center;
+  margin: 12px 0;
+
+}
+
+
+/* dueños
+   counter
+   button-agregar */
+
+
+   
+.counter{
+  width: 58px;
+  height: 60px;
+  padding: 16px;
+  background-color: #0d5378;
+  margin-right: 10px;
+  border-radius: 7px;
+}
+
+.container-counter{
+  margin-left: 32vh;
+}
+
+
+.button-agregar{
+  width: 25vh;
+  font-size: 14px;
+  height: 50px;
+  cursor: pointer;
+  padding: 15px;
+  color: #fff;
+  background-color: #0d5378;
+  border: 0px;
+  margin-bottom: 20px;
+  border-radius: 7px;
+}
+
+.dueños{
+  width: 40vh;
+  height: 40px;
+  background-color: #0d5378;
+  text-align: center;
+  border-radius: 7px;
+  font-size: 16px;
+  border: 0;
+  padding: 10px;
+  margin-left:0 ;
+
+}
+
+
+
+
+
+
+
+
